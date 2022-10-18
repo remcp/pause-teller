@@ -1,0 +1,15 @@
+C:\Users\remco\source\repos\pause-teller\pause-teller\bin\Debug\net6.0\pause-teller.exe
+C:\Users\remco\source\repos\pause-teller\pause-teller\bin\Debug\net6.0\pause-teller.deps.json
+C:\Users\remco\source\repos\pause-teller\pause-teller\bin\Debug\net6.0\pause-teller.runtimeconfig.json
+C:\Users\remco\source\repos\pause-teller\pause-teller\bin\Debug\net6.0\pause-teller.dll
+C:\Users\remco\source\repos\pause-teller\pause-teller\bin\Debug\net6.0\pause-teller.pdb
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.csproj.AssemblyReference.cache
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.AssemblyInfoInputs.cache
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.AssemblyInfo.cs
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.csproj.CoreCompileInputs.cache
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.dll
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\refint\pause-teller.dll
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.pdb
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\pause-teller.genruntimeconfig.cache
+C:\Users\remco\source\repos\pause-teller\pause-teller\obj\Debug\net6.0\ref\pause-teller.dll
